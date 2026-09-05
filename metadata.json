@@ -1,0 +1,6 @@
+{
+  "name": "VeerSetu",
+  "description": "Privacy-first personnel welfare intelligence system for uniformed services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
